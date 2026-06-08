@@ -35,7 +35,7 @@ export default defineConfig({
     baseURL: ' https://dailyfinance.roadtocareer.net/',
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
-    headless : true,
+    headless : false,
     actionTimeout: 10000,
     trace: 'on-first-retry',
     viewport: null, 
