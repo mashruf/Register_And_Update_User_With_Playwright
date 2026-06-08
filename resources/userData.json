@@ -16,5 +16,32 @@
     "phoneNumber": "01587500368",
     "address": "North Robynshire",
     "gender": "Male"
+  },
+  {
+    "firstName": "Kenyatta",
+    "lastName": "Schaefer",
+    "email": "mashrufmahabub+437@gmail.com",
+    "password": "f7XZHQLLTbo5URg",
+    "phoneNumber": "01530943068",
+    "address": "Irisbury",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Chanelle",
+    "lastName": "Moen",
+    "email": "mashrufmahabub+358@gmail.com",
+    "password": "U9Luy68k8Zf2AD7",
+    "phoneNumber": "01534803381",
+    "address": "Pagacland",
+    "gender": "Male"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Daugherty",
+    "email": "mashrufmahabub+737@gmail.com",
+    "password": "p2nDb4ENZHhynpT",
+    "phoneNumber": "01573039421",
+    "address": "North Kari",
+    "gender": "Male"
   }
 ]

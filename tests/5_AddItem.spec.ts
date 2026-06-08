@@ -36,7 +36,7 @@ test.describe("Add item to cart", () => {
 
         await page.waitForTimeout(2000);
 
-        expect(page.url()).toContain('/user');
+        await expect(page).toHaveURL('https://dailyfinance.roadtocareer.net/user');
         
 
     })

@@ -14,7 +14,7 @@ test.describe("Admin search user by updated email", () => {
         page = await browser.newPage();
     })
 
-    test("Updated user email is shown in Admin dashboard", async () => {
+    test("Login as an admin", async () => {
         await page.goto("/");
 
         const login = new LoginPage(page);
