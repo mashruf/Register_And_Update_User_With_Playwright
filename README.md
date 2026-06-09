@@ -1,6 +1,6 @@
 # Test Automation Suite Using Playwright with Page Object Model
 
-This repository contains a test automation suite using **Playwright**, written with a **Page Object Model (POM)** to automate test scenarios on [Daily Finance Management System](https://dailyfinance.roadtocareer.net/).
+An end-to-end test automation project built with Playwright to validate user registration and profile update functionalities on [Daily Finance Management System](https://dailyfinance.roadtocareer.net/). The framework follows the Page Object Model (POM) design pattern to ensure maintainability, scalability, and code reusability.
 
 ---
 
@@ -82,7 +82,12 @@ cd Register_And_Update_User_With_Playwright
 npm install
 
 ```
-### 3. Run tests
+
+### 3. Install Playwright browsers:
+```
+npx playwright install
+```
+### 4. Run tests
 
 ```
 npx playwright test
