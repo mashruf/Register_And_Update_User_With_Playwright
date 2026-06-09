@@ -71,7 +71,7 @@ Register_And_Update_User_With_Playwright/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/mashruf/Register_And_Update_User_With_Playwright.git
+git clone https://github.com/mashruf/playwright-user-management.git
 
 cd Register_And_Update_User_With_Playwright
 
