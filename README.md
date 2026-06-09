@@ -1,6 +1,6 @@
 # Test Automation Suite Using Playwright with Page Object Model
 
-This repository contains a test automation suite using **Playwright**, written with a **Page Object Model (POM)** automate test scenarios on [Daily Finance Management System](https://dailyfinance.roadtocareer.net/).
+This repository contains a test automation suite using **Playwright**, written with a **Page Object Model (POM)** to automate test scenarios on [Daily Finance Management System](https://dailyfinance.roadtocareer.net/).
 
 ---
 
